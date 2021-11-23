@@ -35,7 +35,7 @@ function startNewGame() {
 	currentDroplet = '';
 	curDropletID = '';
 	newDropletSpeed = 2000;
-	nrlives = 10;           // number of lives is 10
+	nrlives = 10;           // The player has 10 lives set
 	score = 0;
 	charIsFalling = false;
 
